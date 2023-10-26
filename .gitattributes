@@ -1,0 +1,3 @@
+*.jar binary
+*.mrpack binary
+. !text !filter !merge !diff
