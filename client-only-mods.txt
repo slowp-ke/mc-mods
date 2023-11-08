@@ -9,7 +9,7 @@ exordium
 feytweaks
 holdthatchunk
 ImmediatelyFast
-indum
+indium-
 iris
 keybind_fix
 lunade-fastanim
