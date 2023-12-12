@@ -1,0 +1,2 @@
+# Mods that were removed due to causing crashes but should probably keep tabs on for updates:
+https://modrinth.com/mod/recipe-book-delight
