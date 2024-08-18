@@ -7,7 +7,7 @@
 
 With Prism opened,
 
-`Add Instance` Button → Choose `Import` → Paste link [`https://slowp.ke/mods`](https://slowp.ke/mods)
+`Add Instance` Button → Choose `Import` → Paste link [`https://slowp.ke/dl`](https://slowp.ke/dl)
 
 ## Exporting in Prism
 
