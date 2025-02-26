@@ -10,7 +10,7 @@
 
 With Prism opened,
 
-`Add Instance` Button → Choose `Import` → Paste link [`https://slowp.ke/mc.slowpoke`](https://slowp.ke/mc.slowpoke)
+`Add Instance` Button → Choose `Import` → Paste link [`https://slowp.ke/mc.slowp.ke.mrpack`](https://slowp.ke/mc.slowpoke)
 
 ## Exporting in Prism (for Austin)
 
