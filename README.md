@@ -1,15 +1,18 @@
 ## Prerequisites
 
-1. Download and Install JRE 17 from Adoptium: [https://adoptium.net/temurin/releases/?os=windows&arch=x64&package=jre&version=17](https://adoptium.net/temurin/releases/?os=windows&arch=x64&package=jre&version=17)
+1. Download and Install JRE 17 from Adoptium: [https://www.azul.com/downloads/?version=java-21-lts&os=windows&architecture=x86-64-bit&package=jre#zulu](https://www.azul.com/downloads/?version=java-21-lts&os=windows&architecture=x86-64-bit&package=jre#zulu)
+
+   a. **Choose Download and the `.msi` installer**
+
 2. Download and Install [https://prismlauncher.org/download/](https://prismlauncher.org/download/)
 
 ## Installing / Updating
 
 With Prism opened,
 
-`Add Instance` Button → Choose `Import` → Paste link [`https://slowp.ke/dl`](https://slowp.ke/dl)
+`Add Instance` Button → Choose `Import` → Paste link [`https://slowp.ke/mc.slowp.ke`](https://slowp.ke/mc.slowp.ke)
 
-## Exporting in Prism
+## Exporting in Prism (for Austin)
 
 1. `Right Click` Instance → `Export...` → `Modrinth`
 2. Bump version
