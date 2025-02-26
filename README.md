@@ -1,6 +1,6 @@
 ## Prerequisites
 
-1. Download and Install JRE 17 from Adoptium: [https://www.azul.com/downloads/?version=java-21-lts&os=windows&architecture=x86-64-bit&package=jre#zulu](https://www.azul.com/downloads/?version=java-21-lts&os=windows&architecture=x86-64-bit&package=jre#zulu)
+1. Download and Install JRE 21 from Adoptium: [https://www.azul.com/downloads/?version=java-21-lts&os=windows&architecture=x86-64-bit&package=jre#zulu](https://www.azul.com/downloads/?version=java-21-lts&os=windows&architecture=x86-64-bit&package=jre#zulu)
 
    a. **Choose Download and the `.msi` installer**
 
