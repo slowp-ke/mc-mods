@@ -10,7 +10,7 @@
 
 With Prism opened,
 
-`Add Instance` Button → Choose `Import` → Paste link [`https://slowp.ke/mc.slowp.ke.mrpack`](https://slowp.ke/mc.slowpoke)
+`Add Instance` Button → Choose `Import` → Paste link [`https://slowp.ke/mc.slowp.ke.mrpack`](https://slowp.ke/mc.slowp.ke.mrpack)
 
 Once the instance is added,
 Right Click → Edit → Settings → Tick "Memory" and set "Maximum Memory allocation" to at least 8192MB (8GB). If you have more RAM, you can put a bigger number here like 16384MB (16GB).
